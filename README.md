@@ -25,3 +25,7 @@ See https://reflexiveai.org.
 ## For hosting workgroups
 
 - TBD
+
+# Feedback or questions
+
+If you have any questions or feedback, please contact us at [info@reflexiveai.org](mailto:info@reflexiveai.org).
