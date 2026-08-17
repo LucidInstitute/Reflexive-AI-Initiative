@@ -6,11 +6,11 @@ The purpose of this repository is to share outcomes, intermediate results and fa
 
 ## Coordination Team
 
-See https://reflexiveai.org.
+See [reflexiveai.org](https://reflexiveai.org).
 
 ## Peer-review Board
 
-See https://reflexiveai.org.
+See [reflexiveai.org](https://reflexiveai.org).
 
 ## Study protocol
 
