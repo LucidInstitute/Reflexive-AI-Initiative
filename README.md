@@ -4,21 +4,21 @@ Welcome to the repository of the [Reflexive AI Research Initiative](https://refl
 
 The purpose of this repository is to share outcomes, intermediate results and facilitation materials that are part of the research process.
 
-# Coordination Team
+## Coordination Team
 
 See https://reflexiveai.org.
 
-# Peer-review Board
+## Peer-review Board
 
 See https://reflexiveai.org.
 
-# Study protocol
+## Study protocol
 
 - TBD
 
-# Facilitation Materials
+## Facilitation Materials
 
-## For hosting in-company focus groups
+### For hosting in-company focus groups
 
 - [Facilitation guide (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Focus%20Group%20Facilitation%20Guide.pdf)
 - [Informed Consent Form (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Informed%20Consent%20Form.pdf)
@@ -26,10 +26,10 @@ See https://reflexiveai.org.
 - [Station Topics (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Topics.pdf)
 - Miro Template for online facilitation (TBD)
 
-## For hosting framework development workgroups
+### For hosting framework development workgroups
 
 - TBD
 
-# Feedback or questions
+## Feedback or questions
 
 If you have any questions or feedback, please contact us at [info@reflexiveai.org](mailto:info@reflexiveai.org).
