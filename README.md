@@ -12,6 +12,10 @@ See https://reflexiveai.org.
 
 See https://reflexiveai.org.
 
+# Study protocol
+
+- TBD
+
 # Facilitation Materials
 
 ## For hosting in-company focus groups
@@ -22,7 +26,7 @@ See https://reflexiveai.org.
 - [Station Topics (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Topics.pdf)
 - Miro Template for online facilitation (TBD)
 
-## For hosting workgroups
+## For hosting framework development workgroups
 
 - TBD
 
