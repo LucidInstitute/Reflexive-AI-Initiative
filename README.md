@@ -16,10 +16,10 @@ See https://reflexiveai.org.
 
 ## For hosting in-company focus groups
 
-- [Facilitation guide](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Focus%20Group%20Facilitation%20Guide.pdf)
-- [https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Informed%20Consent%20Form.pdf](Informed Consent Form)
-- [https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Host%20Protocol.pdf](Station Host Protocol)
-- [https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Topics.pdf](Station Topics)
+- [Facilitation guide (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Focus%20Group%20Facilitation%20Guide.pdf)
+- [Informed Consent Form (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Informed%20Consent%20Form.pdf])
+- [Station Host Protocol (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Host%20Protocol.pdf)
+- [Station Topics (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Topics.pdf)
 - Miro Template for online facilitation (TBD)
 
 ## For hosting workgroups
