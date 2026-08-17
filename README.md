@@ -12,9 +12,24 @@ See [reflexiveai.org](https://reflexiveai.org).
 
 See [reflexiveai.org](https://reflexiveai.org).
 
-## Study protocol
+## Study overview
 
-- TBD
+We follow an action research approach where academics collaborate with practitioners to develop a theoretical framework for governance of AI in organizations. Our guiding Research Question is "_How organizations can leverage the power of artificial intelligence in a manner that is human-centered, responsible and reflexiveWhat principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_". This question is grounded in pragmatism. While our research will develop theory, the aim of this theory is to help solve real-world challenges.
+
+To answer this research question, professionals and academics collaborate in a series of workgroups to analyze data, develop this framework, identify interventions and test it in their own organizations. We assume that both professionals and academics are active sense makers of their environments, have equal epistemic access and collaborate as peers. This is different than a more traditional scientific paradigm where practitioners are seen as "data subjects", and this data is analyzed by detached scientists.
+
+Data will be collected from a variety of sources:
+
+- *
+
+### Assumptions
+
+- We assume that all participants are active sense makers of their environments. 
+
+### Data sources
+
+
+
 
 ## Facilitation Materials
 
