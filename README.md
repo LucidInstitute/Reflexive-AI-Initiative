@@ -34,13 +34,12 @@ Data will be collected from a variety of sources:
 
 ## Facilitation Materials
 
-### For hosting in-company focus groups
+### For hosting an in-company world cafe
 
-- [Facilitation guide (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Focus%20Group%20Facilitation%20Guide.pdf)
-- [Informed Consent Form (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Informed%20Consent%20Form.pdf)
-- [Station Host Protocol (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Host%20Protocol.pdf)
-- [Station Topics (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Focus%20Group%20Guide/Station%20Topics.pdf)
-- Miro Template for online facilitation (TBD)
+- [Facilitation guide (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf)
+- [Informed Consent Form (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf)
+- [Station Host Protocol (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Station%20Host%20Protocol.pdf)
+- [Station Topics (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Station%20Topics.pdf)
 
 ### For hosting framework development workgroups
 
