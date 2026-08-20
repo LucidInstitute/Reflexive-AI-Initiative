@@ -24,7 +24,7 @@ The framework and all resulting academic publications are released under a Creat
 
 *This is a living study—design, protocol, and goals continue to evolve as the work progresses.*
 
-📄 [detailed description of the study](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Study/1.%20Overview.md).
+📄 [detailed description of the study](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Study/README.md).
 
 ## Facilitation Materials
 
@@ -39,7 +39,7 @@ The framework and all resulting academic publications are released under a Creat
 
 - TBD
 
-## Statement on AI use
+## Statement on ethical AI use
 
 - AI can be used for information-seeking, textual improvements (i.e. grammar and spelling), summarization and verification, but not to substitute or offload (critical) thinking.
 - AI will not be used in a manner that replaces creative work otherwise performed by a person, unless that person uses it themselves.
