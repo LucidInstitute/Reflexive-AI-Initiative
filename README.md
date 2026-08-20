@@ -40,8 +40,10 @@ We position our research in the tradition of *Participatory Action Research (PAR
  
 ### Data analysis
 
-- Thge w
-
+- The **world cafe** provide an initial level of analysis as participants identify themes and factors collaboratively, and then prioritize them with dot voting ([Schiele et al (2022)](https://doi.org/10.1016/j.jbusres.2021.10.075) and [Lohr, Weinhardt & Sieber (2020)](https://doi.org/10.1177/1609406920916976)).
+- Qualitative data will likely be analyzed with thematic analysis ([Braun & Clarke, 2006](http://dx.doi.org/10.1191/1478088706qp063oa)), which is consistent with action research and the shared sense-making in this initiative. Grounded Theory ([Glaser & Strauss, 1999](https://www.taylorfrancis.com/books/mono/10.4324/9780203793206/discovery-grounded-theory-barney-glaser-anselm-strauss)) may be useful at some point, particularly the Glaserian form ([Glaser, 1978](https://books.google.nl/books/about/Theoretical_Sensitivity.html?id=73-2AAAAIAAJ&redir_esc=y)), but our aim is not to create a theory to explain a process nor do we use theoretical sampling.
+- Quantitative data will be analyzed with suitable statistical techniques. Psychometric survey data will be analyzed with SEM and SPSS.
+  
 ### Ownership
 
 Ownership in participatory research is a dimension, ranging from full co-ownership by all participants to full interpretative authority by the research team. To avoid what ([Cooke & Kothari, 2001](https://books.google.nl/books/about/Participation.html?id=aoeTa0OWDnMC&redir_esc=y)) describe as "tyranny" in participation, we establish below how ownership is distributed on various themes:
@@ -51,6 +53,10 @@ Ownership in participatory research is a dimension, ranging from full co-ownersh
 - The publication team and the participants of the work groups collaboratively own the framework resulting from the work groups. This is anchored by providing all iterations of the framework on GitHub under a [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)]. This allows everyone to use and modify it for their purpose, provided it is properly attributed to this initiative and not used for direct commercial purposes.
 - The publication team owns any resulting academic publications and additional analyses performed. Participants of work groups are invited to participate in the creation of these publications if they wish, and will then be considered part of the publication team for this purpose. All participants of the work groups will be named as contributors in the paper (unless they do not wish so).
 - A tension in this model is that the publication team may need to perform additional or other analyses of the data to meet scientific standards and publishing requirements in an academic journal. A risk is that the meaning given to factors and themes during the work groups may consequently shift or change. To address this tension, the participants will be kept up-to-date on publication progress and given the opportunity to object to such shifts. The publication team can then decide to not make the change or make it (i.e. because publication requires it) and flag it openly in the publication.
+
+## Validity threats
+
+- TBD
 
 ## Facilitation Materials
 
