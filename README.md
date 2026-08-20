@@ -71,6 +71,14 @@ Ownership in participatory research is a dimension, ranging from full co-ownersh
 
 - TBD
 
+## Statement on AI use
+
+- AI can be used for information-seeking, textual improvements (i.e. grammar and spelling) and verification, but not to substitute or offload (critical) thinking.
+- AI will not be used in a manner that replaces creative work otherwise performed by a person, unless that person uses it themselves.
+- Data collected as part of this study will not be uploaded to AI platforms. If AI is used for analytical purposes (i.e. transcription), it can only be done with fully-offline, locally-installed software.
+- Whenever AI is used in outcomes of the study, it will be clarified where and for what purpose.
+
 ## Feedback or questions
 
 If you have any questions or feedback, please contact us at [info@reflexiveai.org](mailto:info@reflexiveai.org).
+
