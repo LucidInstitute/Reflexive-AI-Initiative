@@ -10,7 +10,7 @@ See [reflexiveai.org](https://reflexiveai.org).
 
 ## Study overview
 
-
+Find a complete [overview of the study here](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Study/1.%20Overview.md).
 
 ## Facilitation Materials
 
