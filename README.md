@@ -10,7 +10,27 @@ See [reflexiveai.org](https://reflexiveai.org).
 
 ## Study overview
 
-Find a complete [overview of the study here](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Study/1.%20Overview.md).
+An action research study developing a theoretical framework for governing AI in organizations, guided by the question: *How can organizations leverage AI in a way that is human-centered, responsible, and reflexive—and how can this be monitored?*
+
+### Approach
+
+We follow a **Participatory Action Research (PAR)** tradition, where academics and practitioners collaborate to build the framework iteratively. Rather than treating researchers as detached observers, PAR emphasizes empowerment, reflexivity, and attention to the shifting power dynamics AI introduces into work.
+
+### How it works
+
+- **Work groups** — Professionals and academics meet in facilitated groups (12–20 participants) across multiple countries and one online series. Each group meets three times, building on outputs from earlier groups shared centrally here on GitHub. Between sessions, participants test the framework in their own organizations and bring back lessons.
+
+- **World cafés** — Structured sessions where organizations answer five reflective questions on AI adoption, opportunities, risks, and human-centered AI. Outcomes are anonymized, scrubbed of sensitive information, and fed into the analysis.
+
+- **Publication** — A publication team prepares scientific outputs, periodically reviewed by a peer-review board (8–10 members) assessing scientific rigor and practical relevance.
+
+### Open source
+
+The framework and all resulting academic publications are released under a Creative Commons license, free for anyone to use or adapt.
+
+*This is a living study—design, protocol, and goals continue to evolve as the work progresses.*
+
+📄 [overview of the study here](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Study/1.%20Overview.md).
 
 ## Facilitation Materials
 
