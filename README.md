@@ -43,15 +43,14 @@ The framework and all resulting academic publications are released under a Creat
 
 - AI can be used for information-seeking, textual improvements (i.e. grammar and spelling), summarization and verification, but not to substitute or offload (critical) thinking.
 - AI will not be used in a manner that replaces creative work otherwise performed by a person, unless that person uses it themselves.
-- Data collected as part of this study will not be uploaded to AI platforms. If AI is used for analytical purposes (i.e. transcription), it can only be done with fully-offline, locally-installed software.
+- Data collected as part of this study will not be uploaded to AI platforms. If AI is used for analytical purposes (i.e. transcription), it can only be done with fully offline, locally installed software.
 - Whenever AI is used in outcomes of the study, it will be clarified where and for what purpose.
 
 ## Statement on funding and financing
 
-- This initiative is not funded directly in any fashion at this time. The people investing time in it do so on a voluntary basis, although they may perform some of their work during work hours of a company or university at their own prerogative. None of the participants in this initiative receive payments in return for their time and contribution.
+- This initiative is not funded directly in any fashion at this time. The people investing time in it do so on a voluntary basis, although they may perform some of their work during the work hours of a company or university at their own prerogative. None of the participants in this initiative receive payments in return for their time and contribution.
 - Operational costs for a website, renting locations for work groups and tools (i.e. Zoom) are paid for directly by sponsoring organizations. See [reflexiveai.org](https://reflexiveai.org).
 
 ## Feedback or questions
 
 If you have any questions or feedback, please contact us at [info@reflexiveai.org](mailto:info@reflexiveai.org).
-
