@@ -16,7 +16,9 @@ See [reflexiveai.org](https://reflexiveai.org).
 
 We follow an action research approach where academics collaborate with practitioners to develop a theoretical framework for governance of AI in organizations. Our guiding Research Question is "_How can organizations leverage the power of artificial intelligence in a manner that is human-centered, responsible and reflexive. What principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_". This question is grounded in pragmatism. While our research will develop theory, the aim of this theory is to help solve real-world challenges.
 
-To answer this research question, professionals and academics collaborate in a series of workgroups to iteratively develop a framework based on data from a variety of courses (literature, world cafes, surveys, experience). 
+To answer this research question, professionals and academics collaborate in a series of **work groups** to incrementally and iteratively develop a framework. Each **work group** will meet three times with an interval of one or more months, consist of 12 to 20 participants and facilitated by the coordination team. Multiple work groups are organized in different countries (and one online series) in a staggered fashion, with outputs shared centrally on GitHub. This allows work groups to "pass the baton", so to speak, and build on and validate work by earlier groups. During the work groups sessions, participants will digest and analyze data from a variety of courses (literature, world cafes, surveys, experience) with the purpose of expanding, enriching and improving the framework. In-between sessions, participants are encouraged to take the (preliminary) framework into their organizations to gather feedback and try to apply it within their context (at whatever scale is workable). Lessons and insights are brought into the next work group.
+
+
 
 
 ### Research tradition
