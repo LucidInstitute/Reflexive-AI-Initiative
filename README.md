@@ -19,6 +19,8 @@ We follow a **Participatory Action Research (PAR)** tradition, where academics a
 - **World cafés** — Structured sessions where organizations answer five reflective questions on AI adoption, opportunities, risks, and human-centered AI. Outcomes are anonymized, scrubbed of sensitive information, and fed into the analysis.
 - **Publication** — A publication team prepares scientific outputs, periodically reviewed by a peer-review board (8–10 members) assessing scientific rigor and practical relevance.
 
+![Visualization of the process](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Style%20Elements/Roadmap.jpg?raw=true)
+
 ### Open source
 The framework and all resulting academic publications are released under a Creative Commons license, free for anyone to use or adapt.
 
