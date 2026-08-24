@@ -7,7 +7,7 @@ Many organizations are adopting AI. The rapid advance of AI and AI-related techn
 
 This initiative was born out of the shared concerns of the members of the coordination team, and reflected in the large number of participants and organizations that have already signed up. 
 
-## General approach
+## General approach and Research Question
 We follow an action research approach where academics collaborate with practitioners to develop a theoretical framework for governance of AI in organizations ([Cornish et al, 2023](https://www.nature.com/articles/s43586-023-00214-1), [Bartels & Wittmayer, 2018](https://www.taylorfrancis.com/books/edit/10.4324/9781315148724/action-research-policy-analysis-koen-bartels-julia-wittmayer)). Our guiding Research Question is "_How can organizations leverage the power of artificial intelligence in a manner that is human-centered, responsible and reflexive? What principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_". This question is grounded in pragmatism. While our research will develop theory, the aim of this theory is to help solve real-world challenges.
 
 ## Organization & Coordination
@@ -57,17 +57,6 @@ Ownership in participatory research is a dimension, ranging from full co-ownersh
 - The publication team and the participants of the work groups collaboratively own the framework resulting from the work groups. This is anchored by providing all iterations of the framework on GitHub under a [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This allows everyone to use and modify it for their purpose, provided it is properly attributed to this initiative and not used for direct commercial purposes.
 - The publication team owns any resulting academic publications and additional analyses performed. Participants of work groups are invited to participate in the creation of these publications if they wish, and will then be considered part of the publication team for this purpose. All participants of the work groups will be named as contributors in the paper (unless they do not wish so).
 - A tension in this model is that the publication team may need to perform additional or other analyses of the data to meet scientific standards and publishing requirements in an academic journal. A risk is that the meaning given to factors and themes during the work groups may consequently shift or change. To address this tension, the participants will be kept up to date on publication progress and given the opportunity to object to such shifts. The publication team can then decide to not make the change or make it (i.e. because publication requires it) and flag it openly in the publication.
-
-## Tensions to navigate
-- Action research typically occurs in a situated context ([Norström et al. 2020](https://www.nature.com/articles/s41893-019-0448-2)). Yet, the work groups bring together participants from many different organizations to address the broad societal challenge of AI. We attempt to address this in two ways. First, participants are encouraged to go back into their organizations and attempt to apply the (preliminary) framework or discuss it internally, thus returning to their context. Second, the world cafes provide an opportunity to draw insights from organizational contexts. However, there is a risk that the outcomes become orphaned from that context and lose their meaning.
-- The design and facilitation of the process may exclude certain outcomes, or privilege others, because design and facilitation is (at least) initially done by the coordination team, which introduces bias and a power hierarchy. We attempt to address this through reflexivity on the positionality of members in the coordination team. Second, participants who wish to contribute to design and coordination may join the coordination team.
-
-## Validity threats and countermeasures
-- Because participation is voluntary, several self-selection biases are possible:
-  - The initiative may attract people skeptical of AI or with very limited experience with AI. We will encourage reflexivity on this from participants. Additionally, we will measure "AI stance" and "AI proficiency" among participants and compare it to a broader population.
-  - Participants in managerial roles may be less available to participate, even though their experiences and perspectives are very relevant to the feasibility of the framework. We will work to attract people in such roles and work to diversify participants in work groups as much as possible. If we prove unable to attract participants in such roles, this is in itself an empirical finding, even though it limits potential application.
-- TBD
-
 
 ## QuARC Assessment
 We rely on the Quality Assessment Action Research Checklist (QuARC, [Coghlan & Shani, 2018](https://doi.org/10.4135/9781529716566), [Casey et al, 2026](https://doi.org/10.1111/jan.70607)) to assess the quality of our research. In action research, 'quality' is typically defined as rigour, validity, trustworthiness, credibility and workability ([Herr & Anderson, 2015](https://doi.org/10.4135/9781452226644)). The QuARC operationalizes these ambiguous statement into specific questions in four areas that need to be addressed. Below, we answer them for this study based on what is known at this time:
@@ -148,4 +137,12 @@ _This is the intention. But this is yet to be determined._
 
 _This is the intention.  We aim to address this by inviting participants to reflect on their level of engagement at several points during the process._
 
+## Tensions to navigate
+- Action research typically occurs in a situated context ([Norström et al. 2020](https://www.nature.com/articles/s41893-019-0448-2)). Yet, the work groups bring together participants from many different organizations to address the broad societal challenge of AI. We attempt to address this in two ways. First, participants are encouraged to go back into their organizations and attempt to apply the (preliminary) framework or discuss it internally, thus returning to their context. Second, the world cafes provide an opportunity to draw insights from organizational contexts. However, there is a risk that the outcomes become orphaned from that context and lose their meaning.
+- The design and facilitation of the process may exclude certain outcomes, or privilege others, because design and facilitation is (at least) initially done by the coordination team, which introduces bias and a power hierarchy. We attempt to address this through reflexivity on the positionality of members in the coordination team. Second, participants who wish to contribute to design and coordination may join the coordination team.
 
+## Validity threats and countermeasures
+- Because participation is voluntary, several self-selection biases are possible:
+  - The initiative may attract people skeptical of AI or with very limited experience with AI. We will encourage reflexivity on this from participants. Additionally, we will measure "AI stance" and "AI proficiency" among participants and compare it to a broader population.
+  - Participants in managerial roles may be less available to participate, even though their experiences and perspectives are very relevant to the feasibility of the framework. We will work to attract people in such roles and work to diversify participants in work groups as much as possible. If we prove unable to attract participants in such roles, this is in itself an empirical finding, even though it limits potential application.
+- TBD
