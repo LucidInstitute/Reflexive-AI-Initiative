@@ -2,6 +2,12 @@
 
 _Note: the study design, protocol and goals are still crystallizing and will continue to do so as we perform it collaboratively and learn more. What is written below is subject to change._
 
+## Aim and Relevance
+Many organizations are adopting AI. The rapid advance of AI and AI-related technologies requires organizations and society at large to reflect on its values vis-a-vis this new technology, as also happened during earlier metaparadigmatic shifts ([Hilbert, 2020](https://doi.org/10.31887/DCNS.2020.22.2/mhilbert). [Bijker, 2017](https://doi.org/10.17351/ests2017.170), [Tegegn, 2024](https://doi.org/10.1080/23311886.2024.2356916)). AI can change the nature and meaning of work ([Ateeq et al, 2025](https://doi.org/10.63332/joph.v5i4.1221), [Rostamzadeh, 2025](https://doi.org/10.1155/hbe2/8094428)), change the psychological contract between employers and employees ([Braganza et al, 2021](https://doi.org/10.1016/j.jbusres.2020.08.018)), reshape how work and teamwork is performed ([Tortorella, 2024](https://doi.org/10.1080/00207543.2024.2368698)) and much more ([Bankins et al, 2023](https://doi.org/10.1002/job.2735)). The aim of our initiative is to provide a practical governance framework to aid organizations in reflecting on such axiological questions.
+
+This initiative was born out of the shared concerns of the members of the coordination team, and reflected in the large number of participants and organizations that have already signed up. 
+
+## General approach
 We follow an action research approach where academics collaborate with practitioners to develop a theoretical framework for governance of AI in organizations ([Cornish et al, 2023](https://www.nature.com/articles/s43586-023-00214-1), [Bartels & Wittmayer, 2018](https://www.taylorfrancis.com/books/edit/10.4324/9781315148724/action-research-policy-analysis-koen-bartels-julia-wittmayer)). Our guiding Research Question is "_How can organizations leverage the power of artificial intelligence in a manner that is human-centered, responsible and reflexive? What principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_". This question is grounded in pragmatism. While our research will develop theory, the aim of this theory is to help solve real-world challenges.
 
 ## Organization & Coordination
@@ -70,7 +76,7 @@ We rely on the Quality Assessment Action Research Checklist (QuARC, [Coghlan & S
 
 1. Is the action driven by practical concerns?
 
-_Yes. Many organizations are adopting AI. The rapid advance of AI and AI-related technologies requires organizations and society at large to reflect on its values vis-a-vis this new technology, as also happened during earlier metaparadigmatic shifts ([Hilbert, 2020](https://doi.org/10.31887/DCNS.2020.22.2/mhilbert). [Bijker, 2017](https://doi.org/10.17351/ests2017.170), [Tegegn, 2024](https://doi.org/10.1080/23311886.2024.2356916)). AI can change the nature and meaning of work, change the psychological contract between employers and employees, reshape how work and teamwork is performed and much more. This initiative was born out of the shared concerns of the members of the coordination team, and reflected in the large number of participants and organizations that have already signed up. The aim of our initiative is to provide a practical governance framework to aid organizations in reflecting on such axiological questions. However, it should be noted that the exact practical concerns may diverge for individual participants._
+_Yes. However, it should be noted that the exact practical concerns may diverge for individual participants._
 
 2. Are there local, national and international imperatives influencing the practical concerns?
 
