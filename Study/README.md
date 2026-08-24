@@ -69,8 +69,14 @@ We rely on the Quality Assessment Action Research Checklist (QuARC, [Coghlan & S
 ### Area: Context
 
 1. Is the action driven by practical concerns?
+
+_Yes. Many organizations are adopting AI. But they are also struggling with_
+
 2. Are there local, national and international imperatives influencing the practical concerns?
 3. Does previous research inform the practical concerns?
+
+Yes. 
+
 4. Has the AR project drawn on previous research?
 
 ### Area: Quality of relationships
