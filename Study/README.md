@@ -64,42 +64,82 @@ Ownership in participatory research is a dimension, ranging from full co-ownersh
 
 
 ## QuARC Assessment
-We rely on the Quality Assessment Action Research Checklist (QuARC, [Coghlan & Shani, 2018](https://doi.org/10.4135/9781529716566)) to assess the quality of our research. In action research, 'quality' is typically defined as rigour, validity, trustworthiness, credibility and workability ([Herr & Anderson, 2015](https://doi.org/10.4135/9781452226644)). The QuARC operationalizes these ambiguous statement into specific questions in four areas that need to be addressed. Below, we answer them for this study:
+We rely on the Quality Assessment Action Research Checklist (QuARC, [Coghlan & Shani, 2018](https://doi.org/10.4135/9781529716566), [Casey et al, 2026](https://doi.org/10.1111/jan.70607)) to assess the quality of our research. In action research, 'quality' is typically defined as rigour, validity, trustworthiness, credibility and workability ([Herr & Anderson, 2015](https://doi.org/10.4135/9781452226644)). The QuARC operationalizes these ambiguous statement into specific questions in four areas that need to be addressed. Below, we answer them for this study based on what is known at this time:
 
 ### Area: Context
 
 1. Is the action driven by practical concerns?
 
-_Yes. Many organizations are adopting AI. But they are also struggling with_
+_Yes. Many organizations are adopting AI. The rapid advance of AI and AI-related technologies requires organizations and society at large to reflect on its values vis-a-vis this new technology, as also happened during earlier metaparadigmatic shifts ([Hilbert, 2020](https://doi.org/10.31887/DCNS.2020.22.2/mhilbert). [Bijker, 2017](https://doi.org/10.17351/ests2017.170), [Tegegn, 2024](https://doi.org/10.1080/23311886.2024.2356916)). AI can change the nature and meaning of work, change the psychological contract between employers and employees, reshape how work and teamwork is performed and much more. This initiative was born out of the shared concerns of the members of the coordination team, and reflected in the large number of participants and organizations that have already signed up. The aim of our initiative is to provide a practical governance framework to aid organizations in reflecting on such axiological questions. However, it should be noted that the exact practical concerns may diverge for individual participants._
 
 2. Are there local, national and international imperatives influencing the practical concerns?
+
+_Yes. AI technology is advancing very rapidly, making the need for practical guidance important to avoid unreflexive use and harmful consequences._
+
 3. Does previous research inform the practical concerns?
 
-Yes. 
+_Yes. A literature review will be provided in September to ground this initiative in earlier work._
 
 4. Has the AR project drawn on previous research?
+
+_Yes. A literature review will be provided in September to ground this initiative in earlier work._
 
 ### Area: Quality of relationships
 
 1. Are those who own the practical concerns and have a stake in their resolution included in all the stages of the research project?
+
+_Partially. Participants are primarily included in the phases of data collection, analyses, translation to an actionable governance framework and the iterative testing of such a framework. The coordination team takes a more active role in the initiation stage ([Phase 0](https://doi.org/10.1016/j.envsci.2022.05.019)) and the publication stage, although participants are encourage to participate here too if this is feasible for them. This reflects the practical dilemma that individual participants often have time constraints and/or are unable to commit for a long period of time. Therefore we optimize the opportunities for inclusion in those stages where it matters most, and give the option to be included in other stages also._
+
 2. Can the participants be classified as co-researchers?
-3. Is the level of the patients/clients and co-researchers evident at each stage of the research project?
+
+_Yes. Participants are included in shared sensemaking of the data, the identification of relevant themes, factors and topics for a governance framework, as well as testing it in their various organizations to collect feedback for new iterations. We also note that the researchers - including the coordination team - are effectively participants also, as AI is also affecting their work and their organizations._
+
+3. Is the level of the clients and co-researchers evident at each stage of the research project?
+
+_Yes. We will clarify this at every stage._
+
 4. Is the AR project evaluated in terms of the quality of relationships?
+
+_Yes. And also the degree to which the outcomes are useful by the various organizations participating._
 
 ### Quality of the Action Research process itself
 
 1. Does the final account demonstrate a clear and rigourous engagement in the AR project's design?
+
+_To be done._
+
 2. Does the account demonstrate subsequent enactment of cycles of constructing, planning action, taking action and evaluating?
+
+_To be done._
+
 3. Is the enactment of the cycles towards the practical and theoretical objectives transparent and reliable?
+
+_To be done._
+
 4. Is the engagement of the co-researchers evident in shared analysis and shared reflection?
+
+_To be done._
 
 ### Outcomes
 
 1. Are both forms outcomes (theory/research and practical) presented?
+
+_This is the intention._
+
 2. Are the outcomes sustainable?
+
+_This is the intention. We aim to address sustainability by inviting participants to reflect on this periodically._
+
 3. Are the outcomes useful for other AR projects?
+
+_This is the intention. But this is yet to be determined._
+
 4. Does the theoretical outcome contribute to future theory development?
+
+_This is the intention. But this is yet to be determined._
+
 5. Is there a reflection on the process of engagement on the cycles by the co-researchers?
 
+_This is the intention.  We aim to address this by inviting participants to reflect on their level of engagement at several points during the process._
 
 
