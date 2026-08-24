@@ -16,7 +16,7 @@ We follow an action research approach where academics collaborate with practitio
 To answer this research question, professionals and academics collaborate in a series of **work groups** to incrementally and iteratively develop a framework. Each **work group** will meet three times with an interval of one or more months, consist of 12 to 20 participants and be facilitated by the coordination team. Participants are professionals and academics who apply for participation (either on their own volition or because they were invited). Multiple work groups are organized in different countries (and one online series) in a staggered fashion, with outputs shared centrally on GitHub. This allows work groups to "pass the baton", so to speak, and build on and validate work by earlier groups. During the work group sessions, participants will digest and analyze data from a variety of sources (literature, world cafes, surveys, experience) with the purpose of expanding, enriching and improving the framework. In between sessions, participants are encouraged to take the (preliminary) framework into their organizations to gather feedback and try to apply it within their context (at whatever scale is workable). Additional analyses or data collection may also be performed in between sessions. Lessons and insights are brought into the next work group.
 
 ## World cafes to collect insights from companies
-An important source of data are the **world cafes**. These provide an opportunity to draw in more experience and knowledge from a variety of organizational contexts. Each world cafe is facilitated internally by a trained facilitator, following a standardized protocol for informed consent and facilitation. This facilitator, who is a member of the organization, invites 8-20 relevant participants. During the world cafe, participants from the organization collaboratively answer five reflective questions about AI adoption, the opportunities and risks and what can be done to ensure human-centered AI within their organization. The outcomes are anonymized and scrubbed of any business-sensitive information, and shared with the research initiative so they can be included in the analyses by work groups and the publication team.
+An important source of data are the **world cafes**. These provide an opportunity to draw in more experience and knowledge from a variety of organizational contexts. Each world cafe is facilitated by someone in that organization. To ensure consistency, each facilitator will participate in a training call (online) and receive a [standardized facilitation guide](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/World%20Cafe%20Facilitation%20Guide.pdf) and [informed consent protocol](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf). This facilitator invites 8-20 relevant participants. During the world cafe, participants from the organization collaboratively answer five reflective questions about AI adoption, the opportunities and risks and what can be done to ensure human-centered AI within their organization. The outcomes are anonymized and scrubbed of any business-sensitive information, and shared with the research initiative so they can be included in the analyses by work groups and the publication team.
 
 ## Open source
 The framework itself and any academic publications based on it will be published under a (Creative Commons) open source license, making it available to anyone who wishes to use or adapt it. Scientific publications will be prepared by the publication team, with additional analyses of the data as needed. The publication team consists of the coordination team and any participant or peer-review board member (see below) who wishes to contribute substantively (i.e. participate in coding, writing, analysis) to this phase of the initiative. This process is reviewed periodically by a peer-review board consisting of 8-10 members that evaluate scientific rigor and practical relevance.
@@ -45,7 +45,7 @@ We position our research in the tradition of *Participatory Action Research (PAR
 Ownership in participatory research is a dimension, ranging from full co-ownership by all participants to full interpretative authority by the research team. To avoid what [Cooke & Kothari (2001)](https://books.google.nl/books/about/Participation.html?id=aoeTa0OWDnMC&redir_esc=y) describe as "tyranny" in participation, we establish below how ownership is distributed on various themes:
 
 - The problem is owned by the participants collaboratively.
-- The organizing process is (at least initially) owned by the coordination team. The team can be expanded with participants if they wish to contribute. Moreover, work groups can suggest additional data collection (like a survey or a review of a topic) and take part in organizing it.
+- The organizing process is (at least initially) owned by the coordination team. The team can be expanded with participants if they wish to contribute. Moreover, work groups can suggest additional data collection (like a survey or a review of a topic) and are invited to take part in organizing it.
 - The publication team and the participants of the work groups collaboratively own the sense-making process during the work groups and the substantive meaning they develop for themes and factors.
 - Participants who take (preliminary) frameworks into their organization to apply them own any of the outcomes of this process and make them available if they wish.
 - The publication team and the participants of the work groups collaboratively own the framework resulting from the work groups. This is anchored by providing all iterations of the framework on GitHub under a [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). This allows everyone to use and modify it for their purpose, provided it is properly attributed to this initiative and not used for direct commercial purposes.
@@ -61,3 +61,39 @@ Ownership in participatory research is a dimension, ranging from full co-ownersh
   - The initiative may attract people skeptical of AI or with very limited experience with AI. We will encourage reflexivity on this from participants. Additionally, we will measure "AI stance" and "AI proficiency" among participants and compare it to a broader population.
   - Participants in managerial roles may be less available to participate, even though their experiences and perspectives are very relevant to the feasibility of the framework. We will work to attract people in such roles and work to diversify participants in work groups as much as possible. If we prove unable to attract participants in such roles, this is in itself an empirical finding, even though it limits potential application.
 - TBD
+
+
+## QuARC Assessment
+We rely on the Quality Assessment Action Research Checklist (QuARC, [Coghlan & Shani, 2018](https://doi.org/10.4135/9781529716566)) to assess the quality of our research. In action research, 'quality' is typically defined as rigour, validity, trustworthiness, credibility and workability ([Herr & Anderson, 2015](https://doi.org/10.4135/9781452226644)). The QuARC operationalizes these ambiguous statement into specific questions in four areas that need to be addressed. Below, we answer them for this study:
+
+### Area: Context
+
+1. Is the action driven by practical concerns?
+2. Are there local, national and international imperatives influencing the practical concerns?
+3. Does previous research inform the practical concerns?
+4. Has the AR project drawn on previous research?
+
+### Area: Quality of relationships
+
+1. Are those who own the practical concerns and have a stake in their resolution included in all the stages of the research project?
+2. Can the participants be classified as co-researchers?
+3. Is the level of the patients/clients and co-researchers evident at each stage of the research project?
+4. Is the AR project evaluated in terms of the quality of relationships?
+
+### Quality of the Action Research process itself
+
+1. Does the final account demonstrate a clear and rigourous engagement in the AR project's design?
+2. Does the account demonstrate subsequent enactment of cycles of constructing, planning action, taking action and evaluating?
+3. Is the enactment of the cycles towards the practical and theoretical objectives transparent and reliable?
+4. Is the engagement of the co-researchers evident in shared analysis and shared reflection?
+
+### Outcomes
+
+1. Are both forms outcomes (theory/research and practical) presented?
+2. Are the outcomes sustainable?
+3. Are the outcomes useful for other AR projects?
+4. Does the theoretical outcome contribute to future theory development?
+5. Is there a reflection on the process of engagement on the cycles by the co-researchers?
+
+
+
