@@ -22,6 +22,9 @@ Thus, the rapid advancements in AI technology in recent years asks of organizati
 
 ## AI and software engineering
 
+## Human-centered AI
+
+- Discuss the Copenhagen Manifesto 
 
 ## Governance of AI
 
