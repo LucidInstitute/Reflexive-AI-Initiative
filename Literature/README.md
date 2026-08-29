@@ -3,7 +3,6 @@
 
 
 ## Definition of AI
-
 The Organization for Economic Co-operation and Development (OECD) defines Artificial Intelligence (AI) as "_[...]a machine-based system that, for explicit or implicit objectives, infers, from
 the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment._" ([OECD, 2024](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf)). It is an umbrella for a broad range of technologies, such as Large-Language Models (LLM), Agentic AI, Generative AI, robotics, computer vision and potentially General AI (AGI). In academic literature,  [Russell & Norving (2021)](https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500/9780137505135) define AI as "_the study of [intelligent] agents that receive precepts from the environment and take action. Each such agent is implemented by a function that maps percepts to actions, and we cover different ways to represent these functions, such as production systems, reactive agents, logical planners, neural networks, and decision-theoretic systems_". A technology common in most forms of artificial intelligence is Machine Learning (ML) where algorithms are improved through experience with a class of tasks based on performance measures [Lütge, Wagner & Welsh, (2020)](https://link.springer.com/book/10.1007/978-3-030-51110-4). 
 
@@ -14,15 +13,19 @@ A risk of purely technological definitions of AI is that they frame AI as a tool
 Thus, the rapid advancements in AI technology in recent years asks of organizations and society at large to consider how to best leverage the productivity potential of this technology while also recognizing the ethical, societal, economic and axiological questions that come with it.
 
 ## AI and the workplace
+TBD
 
 ## AI and organizational development
+TBD
 
 ## AI and HRM
-
+TBD
 
 ## AI and software engineering
-
+TBD
 
 ## Governance of AI
+TBD
 
 ## Conclusion
+TBD
