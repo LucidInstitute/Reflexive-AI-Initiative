@@ -24,6 +24,11 @@ TBD
 ## AI and software engineering
 TBD
 
+## Human-centered AI
+One perspective on human-centered AI originates from research on robotics and human-computer interaction ([Sheridan & Verplank, 1978](https://ntrs.nasa.gov/citations/19790007441), [Sheridan, 2000](https://doi.org/10.1006/ijhc.1999.0285), [Shneiderman, 2020](https://doi.org/10.1080/10447318.2020.1741118)), which aims to aid system designers in determining the level of automation suitable for a given task. Initially, this began with a one-dimensional ten-level model by ([Sheridan & Verplank, 1978](https://ntrs.nasa.gov/citations/19790007441), [Parasuraman, Sheridan & Wickens, 2000](https://doi.org/10.1109/3468.844354)) that ranged from 'The computer offers no assistance; the human must take all decisions and actions' to 'The computer decides and acts autonomously, ignoring the human'. A similar approach is used in the five levels of autonomy for self-driving cars ([Society of Automotive Engineers, 2014](https://www.sae.org/standards/content/j3016_201401/)), from 'No automation' to 'Full autonomy'. A challenge with such one-dimensional model is that they suggest designers to choose between one or the other. Moreover, excessive human control or excessive automation may both increase risks for certain tasks. Shneiderman ([2000](https://doi.org/10.1080/10447318.2020.1741118)) recently proposed a two-dimensional model (HCAI) with the level of "human control" and "computer automation" as seperate dimensions, resulting in four quadrants. Some life-critical systems, like self-driving cars and pacemakers, require high human-control and high-automation to create what Shneiderman calls Reliable, Safe & Trustworthy (RST) systems. What these models share is that they sensitize designers to consider what level of automation is best suitable to reduce risks, and that neither full human-control or full computer-control are always desirable.
+
+Another perspective on human-centered AI comes from software engineering research. [Discuss Copenhagen Manifesto].
+
 ## Governance of AI
 TBD
 
