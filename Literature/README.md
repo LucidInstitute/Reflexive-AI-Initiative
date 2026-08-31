@@ -12,8 +12,13 @@ A risk of purely technological definitions of AI is that they frame AI as a tool
 
 Thus, the rapid advancements in AI technology in recent years asks of organizations and society at large to consider how to best leverage the productivity potential of this technology while also recognizing the ethical, societal, economic and axiological questions that come with it.
 
-## AI and the workplace
-TBD
+## AI and productivity
+AI promises to improve productivity and efficiency of individual employees as well as organizational activities more broadly. This is partially reflected in empirical studies to date, with some caveats. [Gusti et al (2024)](http://dx.doi.org/10.21511/ppm.22(3).2024.14) apply a resource-based view (RBV) to AI and frame it as a technology that can provide a competitive advantage provided it is properly supported by change leadership. Indeed, their survey study among 359 employees in the banking industry in Indonesia found a positive effect of AI use by employees on their productivity and employee engagement, although this effect was not moderated by change leadership. A study by [Necula, Fotache & Rieder (2024)](https://doi.org/10.3390/electronics13183758) also found a positive effect of AI usage on firm-level productivity across different sectors, but moderated by the level of integration of AI tools into work activities. This study also revealed an age effect, with younger employees experiencing higher productivity gains through AI. Importantly, the authors emphasize the need for ethical frameworks to help organizations integrate AI ethically and maximize its benefits. Similarly, [Czarnitzki, Fernández & Rammer, (2023)](https://doi.org/10.1016/j.jebo.2023.05.008) also found a positive effect of AI usage on productivity at the firm-level, even when controlling for sectoral AI adoption level, past innovation experience and internal resistance against innovation. 
+
+A theoretical explanation for these findings is that AI improves decision-making and the efficiency of operational tasks ([Agrawal, Gans & Goldfarb, 2019](https://doi.org/10.1257/jep.33.2.31)). 
+
+## AI and society
+- [Cornelli, Frost & Mishra, 2023](https://www.bis.org/publications/working-paper-1135-artificial-intelligence-services-globalisation-and-income-inequality). AI increases inequality between households that (can) use it and those who don't.
 
 ## AI and organizational development
 TBD
