@@ -105,6 +105,7 @@ h3.h{margin-top:16px;margin-bottom:2px;}
 
 /* min tag inside list */
 .mintag{display:inline-block;background:var(--ink);color:#fff;font-size:7.5pt;font-weight:600;border-radius:4px;padding:1px 6px;margin-right:6px;font-family:'Inter';vertical-align:1px;}
+.collecttag{display:inline-block;background:var(--orange);color:#000;font-size:7.5pt;font-weight:600;border-radius:4px;padding:1px 6px;margin-right:6px;font-family:'Inter';vertical-align:1px;}
 
 /* results panel (page 4) */
 .resultspanel{border:1px solid var(--cardline);border-radius:16px;padding:22px 26px;background:var(--paper2);}
