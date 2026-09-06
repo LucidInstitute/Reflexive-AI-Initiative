@@ -9,7 +9,7 @@ The purpose of this repository is to share outcomes, intermediate results and fa
 See [reflexiveai.org](https://reflexiveai.org).
 
 ## Study overview
-An action research study developing a theoretical framework for governing AI in organizations, guided by the question: *How can organizations leverage AI in a way that is human-centered — and how can this be monitored?*
+An action research study developing a theoretical framework for governing AI in organizations, guided by the question: *How can organizations leverage AI in a way that is human-centered, and how can this be monitored?*
 
 ### Approach
 We follow a **Participatory Action Research (PAR)** tradition, where academics and practitioners collaborate to build the framework iteratively. Rather than treating researchers as detached observers, PAR emphasizes empowerment, reflexivity, and attention to the shifting power dynamics AI introduces into work.
