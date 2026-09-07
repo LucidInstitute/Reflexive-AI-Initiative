@@ -88,6 +88,13 @@ ol.num > li:before{content:counter(item) ".";position:absolute;left:0;top:0;font
 .purpose .links a{color:var(--tealdk);}
 .purpose .links .sep{color:var(--cardline);margin:0 8px;}
 
+/* license panel (matches .purpose) */
+.license{margin-top:16px;border:1px solid var(--cardline);border-radius:14px;padding:16px 18px;background:var(--paper2);}
+.license .lbl{font-family:'IBM Plex Mono','PlexMono';font-weight:600;font-size:8pt;letter-spacing:.14em;color:var(--tealdk);text-transform:uppercase;margin-bottom:9px;}
+.license .lictext{font-size:9pt;line-height:1.5;color:var(--muted);}
+.license .links{margin-top:11px;font-size:9pt;color:var(--tealdk);}
+.license .links a{color:var(--tealdk);}
+
 /* content page wrapper */
 .content h2.h{margin-top:0;}
 .section{margin-bottom:14px;}
