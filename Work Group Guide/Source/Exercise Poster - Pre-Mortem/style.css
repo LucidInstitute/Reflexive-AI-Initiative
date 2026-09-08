@@ -208,13 +208,13 @@ h1.hero .g {
   font-weight: 600;
 }
 
-/* ---------- Prompt grid ---------- */
+/* ---------- Prompt stack ---------- */
 .grid {
   flex: 1;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 12mm;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 2fr 1fr;
+  gap: 10mm;
   min-height: 0;
 }
 
@@ -222,14 +222,15 @@ h1.hero .g {
   position: relative;
   border: 1.5px solid var(--cardline);
   border-radius: 18px;
-  padding: 16px 20px 20px 20px;
+  padding: 16px 22px 20px 24px;
   display: flex;
   flex-direction: column;
   background: #fff;
   overflow: hidden;
+  min-height: 0;
 }
 
-/* coloured accent rail on the left edge of each quadrant */
+/* coloured accent rail on the left edge of each row */
 .quad::before {
   content: "";
   position: absolute;
@@ -244,10 +245,6 @@ h1.hero .g {
   background: var(--teal);
 }
 
-.quad.q2::before {
-  background: var(--blue);
-}
-
 .quad.q3::before {
   background: var(--orange);
 }
@@ -259,8 +256,8 @@ h1.hero .g {
 .quad .qhead {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 10px;
+  gap: 16px;
+  margin-bottom: 6px;
 }
 
 .qnum {
@@ -281,10 +278,6 @@ h1.hero .g {
   background: var(--teal);
 }
 
-.q2 .qnum {
-  background: var(--blue);
-}
-
 .q3 .qnum {
   background: var(--orange);
   color: #1c1300;
@@ -292,6 +285,56 @@ h1.hero .g {
 
 .q4 .qnum {
   background: var(--tealdk);
+}
+
+/* illustrative icon badge on the right of each header */
+.qicon {
+  flex: 0 0 auto;
+  margin-left: auto;
+  width: 60px;
+  height: 60px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qicon svg {
+  width: 34px;
+  height: 34px;
+  stroke-width: 1.7;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.q1 .qicon {
+  background: #EAF6F3;
+  border: 1px solid var(--cardline);
+  color: var(--tealdk);
+}
+
+.q3 .qicon {
+  background: #FEF4E2;
+  border: 1px solid #F6D9A6;
+  color: #C77E12;
+}
+
+.q4 .qicon {
+  background: #E7F1EF;
+  border: 1px solid var(--cardline);
+  color: var(--tealdk);
+}
+
+/* the big middle row gets a slightly larger icon */
+.q3 .qicon {
+  width: 66px;
+  height: 66px;
+}
+
+.q3 .qicon svg {
+  width: 38px;
+  height: 38px;
 }
 
 .qeyebrow {
@@ -307,15 +350,21 @@ h1.hero .g {
   font-family: 'Sora', sans-serif;
   font-weight: 700;
   font-size: 22pt;
-  line-height: 1.24;
+  line-height: 1.22;
   color: var(--ink);
   letter-spacing: -0.01em;
+  max-width: 430mm;
 }
 
-/* faint ruled writing surface */
+/* emphasise the big middle prompt */
+.q3 .qtitle {
+  font-size: 24pt;
+}
+
+/* faint writing surface */
 .writing {
   flex: 1;
-  margin-top: 12px;
+  margin-top: 10px;
 }
 
 /* ---------- Footer ---------- */
