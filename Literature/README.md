@@ -27,7 +27,15 @@ Several reviews have attempted to integrate findings to date. [Bankins et al (20
 TBD
 
 ## AI and software engineering
-TBD
+The adoption of AI is particularly pronounced in software engineering (SE). This is in part because machine learning (ML) algorithms underpinning AI originated from this field. Moreover, the text-based nature of software code is very suitable for LLM-based AI and the work typically includes repetitive tasks that can be automated with AI. Thus, AI is already deeply integrated into major development software suites (i.e. Visual Studio, Eclipse, PyCharm), cloud platforms (i.e. Azure, AWS) and supporting tools (CoPilot, Claude Code). The prolific adoption of AI in software engineering provides a window on how work might change in fields with lower levels of adoption, and highlight challenges of AI not yet faced elsewhere.
+
+
+
+ But the text-based nature of software code is also very suitable for LLM-based AI. 
+
+, where it both emerged through the development of machine learning (ML) algorithms and is particularly useful due its text-based
+
+Software engineering (SE) is one of the areas where AI adoption 
 
 
 ## AI and society
