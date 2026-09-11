@@ -26,7 +26,7 @@ To answer the research question, professionals and academics collaborate in a se
 
 During the work group sessions, participants digest and analyze data from a variety of sources (literature, world cafes, surveys, experience) with the purpose of expanding, enriching and improving the framework. In between sessions, participants are encouraged to take the (preliminary) framework into their organizations to gather feedback and try to apply it within their context (at whatever scale is workable). Additional analyses or data collection may also be performed in between sessions. Lessons and insights are brought into the next work group.
 
-The broad aim for the three sessions:
+The broad aim for the three sessions (3 hours each):
 - __Session 1__ ([download preliminary facilitation guide](https://raw.githubusercontent.com/LucidInstitute/Reflexive-AI-Initiative/main/Work%20Group%20Guide/Guide%20-%20Session%20%231.pdf))
   - Create connections between participants.
   - Clarify the aim of the initiative and how participants relate to it as co-researchers (Purpose-to-Practice).
