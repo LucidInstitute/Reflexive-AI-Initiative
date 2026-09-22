@@ -31,8 +31,8 @@ The broad aim for the three sessions (3 hours each):
   - Create connections between participants.
   - Clarify the aim of the initiative and how participants relate to it as co-researchers (Purpose-to-Practice).
   - Provide starting themes relevant to a governance framework for human-centered AI based on a literature review (theory) and a series of expert interviews currently being performed (empirical).
-  - For a selection of themes suitable to the expertise, experience and knowledge in the group, identify outcomes we want to help organizations avoid in these areas through prospective hindsight. These test cases can be used to verify and challenge the framework and any interventions.
-  - Create a first, broad increment of the framework with actions, interventions, strategies and measures to prevent the identified outcomes, or reduce their likelihood. The aim is to have something to take into the participant organizations and collect feedback on it ("What is missing?", "What could be more practical?"). It also helps clarify what other sources of data and literature are useful to explore and collect.
+  - For a selection of themes suitable to the expertise, experience and knowledge in the group, identify outcomes we want to help organizations establish or avoid in these areas through prospective hindsight. These test cases can be used to verify and challenge the framework and any interventions.
+  - Create a first, broad increment of the framework with actions, interventions, strategies and measures to establish or prevent the identified outcomes, and reduce the likelihood of failure. The aim is to have something to take into the participant organizations and collect feedback on it ("What is missing?", "What could be more practical?"). It also helps clarify what other sources of data and literature are useful to explore and collect.
 - __Session 2__ (guide will be designed after Session 1)
   - Analyze feedback collected since the previous session, as well as input from the World Cafes, and use it to iterate the framework.
   - Reflect on the collaborative process to date and revise our Purpose-to-Practice.
