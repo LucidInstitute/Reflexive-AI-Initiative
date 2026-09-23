@@ -269,6 +269,23 @@ h1.hero .g {
   max-width: 190mm;
 }
 
+/* ---------- Examples callout ---------- */
+.examples {
+  margin-bottom: 5mm;
+  border: 1px solid var(--cardline);
+  border-radius: 12px;
+  background: var(--paper2);
+  padding: 11px 18px;
+  font-size: 11pt;
+  line-height: 1.4;
+  color: var(--muted);
+}
+
+.examples b {
+  color: var(--ink);
+  font-weight: 600;
+}
+
 /* ---------- Actions area (large) ---------- */
 .actions {
   flex: 1 1 auto;
