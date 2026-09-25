@@ -11,6 +11,8 @@ See [reflexiveai.org](https://reflexiveai.org).
 ## Study overview
 An action research study developing a theoretical framework for governing AI in organizations, guided by the question: "_How can organizations leverage the power of artificial intelligence in a manner that is human-centered? What principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_"
 
+One aim of this initiative is to define what human-centered AI is. But an incomplete working definition is that human-centered AI is "_creating and using AI to help people perform their work in a more efficient way (faster and more accurately), while making sure that they remain in control, feel motivated, stay connected socially to their colleagues, and understand how AI affects them with autonomy to question, change, or reject its decisions._".
+
 ### Approach
 We follow a **Participatory Action Research (PAR)** tradition, where academics and practitioners collaborate to build the framework iteratively. Rather than treating researchers as detached observers, PAR emphasizes empowerment, reflexivity, and attention to the shifting power dynamics AI introduces into work.
 
