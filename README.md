@@ -34,7 +34,7 @@ The framework and all resulting academic publications are released under a Creat
 
 ### For hosting an in-company world cafe
 
-- [Facilitation guide & materials (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/World%20Cafe%20Facilitation%20Guide/World%20Cafe%20Facilitation%20Materials.zip)
+- [Facilitation guide & materials (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/World%20Cafe%20Facilitation%20Guide/World%20Cafe%20Facilitation%20Materials.zip)
 
 ### For hosting framework development workgroups
 
