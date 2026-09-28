@@ -7,6 +7,7 @@
 | Participants | 13 (including 2 facilitators) |
 | Informed consent | From all participants (available at Lucid Institute) |
 | Transcription by | Claude AI (Verified by Karen Eilers) |
+| Anonymization by | By Karen Eilers |
 
 ## Impromptu Networking: "What does human-centered AI look like for you? How does this relate to your work or this organization?"
 
