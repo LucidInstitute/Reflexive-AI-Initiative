@@ -34,10 +34,7 @@ The framework and all resulting academic publications are released under a Creat
 
 ### For hosting an in-company world cafe
 
-- [Facilitation guide (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf)
-- [Informed Consent Form (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf)
-- [Station Host Protocol (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Station%20Host%20Protocol.pdf)
-- [Station Topics (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Station%20Topics.pdf)
+- [Facilitation guide & materials (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/World%20Cafe%20Facilitation%20Guide/World%20Cafe%20Facilitation%20Materials.zip)
 
 ### For hosting framework development workgroups
 
@@ -47,7 +44,7 @@ The framework and all resulting academic publications are released under a Creat
 
 - AI can be used for information-seeking, textual improvements (i.e. grammar and spelling), summarization and verification, but not to substitute or offload (critical) thinking.
 - AI will not be used in a manner that replaces creative work otherwise performed by a person, unless that person uses it themselves.
-- Data collected as part of this study will not be uploaded to AI platforms. If AI is used for analytical purposes (i.e. transcription), it can only be done with fully offline, locally installed software.
+- Personal data collected as part of this study will not be uploaded to AI platforms. If AI is used for analytical purposes (i.e. transcription), it can only be done with fully offline, locally installed software.
 - Whenever AI is used in outcomes of the study, it will be clarified where and for what purpose.
 
 ## Statement on funding and financing
