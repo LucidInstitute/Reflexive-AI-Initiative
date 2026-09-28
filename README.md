@@ -38,7 +38,7 @@ The framework and all resulting academic publications are released under a Creat
 
 ### For hosting framework development workgroups
 
-- [Facilitation guide & materials for Session #1 (ZIP)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/Work%20Group%20Guide/Work%20Group%20Session%201%20Facilitation%20Materials.zip))
+- [Facilitation guide & materials for Session #1 (ZIP)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/Work%20Group%20Guide/Work%20Group%20Session%201%20Facilitation%20Materials.zip)
 
 ## Statement on ethical AI use
 
