@@ -64,6 +64,7 @@ An important source of data are the **world cafes**. These provide an opportunit
 
 ### Anonymization procedure
 - The facilitators of the session anonymizes and scrubs any sensitive information in the World Cafe outcomes before sharing it with the coordination team of the research initiative.
+- If the session was run within a company, a company contact is approached to verify that scrubbing was properly performed
 - The coordination team of the research initiative will verify anonymization was properly performed, and reach out to the facilitator in case of questions.
 - The anonymized outcomes are published on GitHub
 
