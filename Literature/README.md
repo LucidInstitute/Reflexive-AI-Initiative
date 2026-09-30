@@ -55,9 +55,5 @@ The potential risks associated with AI in the workplace have resulted in a growi
 
 Two widely recognized contributions in AI Governance domain are from [Batool et al. (2025)](https://link.springer.com/article/10.1007/s43681-024-00653-w) and [Lu et al. (2022)](https://dl.acm.org/doi/10.1145/3626234). Together, they argue that AI governance should cover who governs, what is governed, when governance happens across the software engineering lifecycle, and how it is implemented through frameworks, tools, policies, and models, while moving beyond narrow algorithm-level ethics toward system-level practices spanning governance, process, and product patterns. Battol et al.'s systematic literature review finds that existing governance solutions often focus on only one or two principles, most often fairness and privacy, whereas the pattern catalogue proposed by Lu et al. is designed to provide more actionable guidance for operationalizing responsible AI throughout the entire governance and engineering lifecycle
 
-
-[Rostamzadeh, 2025](https://doi.org/10.1155/hbe2/8094428)
-![alt text](rostamzadeh.png)
-
 ## Conclusion
 TBD
