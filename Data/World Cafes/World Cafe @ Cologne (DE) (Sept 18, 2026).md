@@ -5,6 +5,9 @@
 | Facilitators | Prof Karen Eilers and Bernd Joussen |
 | Date | September 18, 2026 |
 | Participants | 13 (including 2 facilitators) |
+| Company type | Diverse |
+| Company size | Diverse |
+| Company type | Diverse |
 | Informed consent | From all participants (available at Lucid Institute) |
 | Transcription by | Claude AI (Verified by Karen Eilers) |
 | Anonymization by | By Karen Eilers |
