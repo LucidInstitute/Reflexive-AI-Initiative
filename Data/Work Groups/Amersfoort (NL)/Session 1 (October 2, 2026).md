@@ -219,4 +219,4 @@
 
 ## Follow-up actions
 
-_We do not publish the follow-up actions identified by participants as part of the action research cycle. This data is only available to them and to the research team_
+_We do not publish the follow-up actions identified by participants as part of the action research cycle. This data may convey personal or company-sensitive details. This data is only available to them and to the research team_
