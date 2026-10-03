@@ -216,3 +216,7 @@
 |---|---|---|
 | 18 | Wat brengt de mens in? | What does the human bring to the table? |
 | 19 | – fact checking<br>– menselijke maat<br>– waar wel/niet<br>– curiosity<br>– vragen stellen<br>– kritisch denken | – fact checking<br>– the human measure<br>– where (to use AI) and where not<br>– curiosity<br>– asking questions<br>– critical thinking |
+
+## Follow-up actions
+
+_We do not publish the follow-up actions identified by participants as part of the action research cycle. This data is only available to them and to the research team_
