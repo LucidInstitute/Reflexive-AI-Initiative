@@ -18,7 +18,7 @@ Our guiding Research Question is "_How can organizations leverage the power of a
 [Literature review (in progress) here](https://github.com/LucidInstitute/Reflexive-AI-Initiative/tree/main/Literature)
 
 ## Visualization of the process
-![Visualization of the process](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Style%20Elements/Roadmap.jpg?raw=true)
+![Visualization of the process](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Visuals/Style%20Elements/Roadmap.jpg?raw=true)
 
 ## Organization & Coordination
 - Coordination Team: see [reflexiveai.org](https://reflexiveai.org).
