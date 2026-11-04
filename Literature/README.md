@@ -56,7 +56,7 @@ There is not currently a clear definition for human-centered AI in organizations
 - Prevents the use of AI in a manner that harms other living beings emotionally, physically or financially
 - Prioritizes human needs and autonomy in design and application
 - Makes outcomes transparent, interpretable and verifiable
-- Is inclusive (no bias or discrimination) and supports continuous learning
+- Is inclusive and supports continuous learning
 - Minimizes environmental impact through energy efficiency and sustainable practices
 
 A more task-focused definition is "_creating and using AI to help people perform their work in a more efficient way (faster and more accurately), while making sure that they remain in control, feel motivated, stay connected socially to their colleagues, and understand how AI affects them with autonomy to question, change, or reject its decisions._"
