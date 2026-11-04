@@ -11,6 +11,8 @@ See [reflexiveai.org](https://reflexiveai.org).
 ## Study overview
 An action research study developing a theoretical framework for governing AI in organizations, guided by the question: "_How can organizations leverage the power of artificial intelligence in a manner that is human-centered? What principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_"
 
+One aim of this initiative is to define what human-centered AI is. But an incomplete working definition is that human-centered AI is "_creating and using AI to help people perform their work in a more efficient way (faster and more accurately), while making sure that they remain in control, feel motivated, stay connected socially to their colleagues, and understand how AI affects them with autonomy to question, change, or reject its decisions._".
+
 ### Approach
 We follow a **Participatory Action Research (PAR)** tradition, where academics and practitioners collaborate to build the framework iteratively. Rather than treating researchers as detached observers, PAR emphasizes empowerment, reflexivity, and attention to the shifting power dynamics AI introduces into work.
 
@@ -19,7 +21,7 @@ We follow a **Participatory Action Research (PAR)** tradition, where academics a
 - **World cafés** — Structured sessions where organizations answer five reflective questions on AI adoption, opportunities, risks, and human-centered AI. Outcomes are anonymized, scrubbed of sensitive information, and fed into the analysis.
 - **Publication** — A publication team prepares scientific outputs, periodically reviewed by a peer-review board (8–10 members) assessing scientific rigor and practical relevance.
 
-![Visualization of the process](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Style%20Elements/Roadmap.jpg?raw=true)
+![Visualization of the process](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Visuals/Style%20Elements/Roadmap.jpg?raw=true)
 
 ### Open source
 The framework and all resulting academic publications are released under a Creative Commons license, free for anyone to use or adapt.
@@ -32,20 +34,17 @@ The framework and all resulting academic publications are released under a Creat
 
 ### For hosting an in-company world cafe
 
-- [Facilitation guide (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf)
-- [Informed Consent Form (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf)
-- [Station Host Protocol (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Station%20Host%20Protocol.pdf)
-- [Station Topics (PDF)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Station%20Topics.pdf)
+- [Facilitation guide & materials (ZIP)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/World%20Cafe%20Facilitation%20Guide/World%20Cafe%20Facilitation%20Materials.zip)
 
 ### For hosting framework development workgroups
 
-- TBD
+- [Facilitation guide & materials for Session #1 (ZIP)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/Work%20Group%20Guide/Work%20Group%20Session%201%20Facilitation%20Materials.zip)
 
 ## Statement on ethical AI use
 
 - AI can be used for information-seeking, textual improvements (i.e. grammar and spelling), summarization and verification, but not to substitute or offload (critical) thinking.
 - AI will not be used in a manner that replaces creative work otherwise performed by a person, unless that person uses it themselves.
-- Data collected as part of this study will not be uploaded to AI platforms. If AI is used for analytical purposes (i.e. transcription), it can only be done with fully offline, locally installed software.
+- Personal data collected as part of this study will not be uploaded to AI platforms. If AI is used for analytical purposes (i.e. transcription), it can only be done with fully offline, locally installed software.
 - Whenever AI is used in outcomes of the study, it will be clarified where and for what purpose.
 
 ## Statement on funding and financing

@@ -7,14 +7,18 @@ Many organizations are adopting AI. The rapid advance of AI and AI-related techn
 
 This initiative was born out of the shared concerns of the members of the coordination team, and is reflected in the large number of participants and organizations that have already signed up.
 
+Another aim of this initiative is to define what human-centered AI. An incomplete working definition is that human-centered AI is "_creating and using AI to help people perform their work in a more efficient way (faster and more accurately), while making sure that they remain in control, feel motivated, stay connected socially to their colleagues, and understand how AI affects them with autonomy to question, change, or reject its decisions._".
+
 ## General approach and Research Question
-We follow an action research approach where academics collaborate with practitioners to develop a theoretical framework for governance of AI in organizations ([Cornish et al, 2023](https://www.nature.com/articles/s43586-023-00214-1), [Bartels & Wittmayer, 2018](https://www.taylorfrancis.com/books/edit/10.4324/9781315148724/action-research-policy-analysis-koen-bartels-julia-wittmayer)). Our guiding Research Question is "_How can organizations leverage the power of artificial intelligence in a manner that is human-centered? What principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_". This question is grounded in pragmatism. While our research will develop theory, the aim of this theory is to help solve real-world challenges.
+We mix participatory design science with participatory action research. In participatory design science, researchers and professionals collaborate to create artifacts to solve practical problems ([Hevner et al, 2004](https://doi.org/10.2307/25148625)). The artifact this initiative aims to develop collaboratively is a governance framework for human-centered AI. In action research, the focus lies on using iterative and incremental action as a vehicle to learn and develop knowledge ([Cornish et al, 2023](https://www.nature.com/articles/s43586-023-00214-1), [Bartels & Wittmayer, 2018](https://www.taylorfrancis.com/books/edit/10.4324/9781315148724/action-research-policy-analysis-koen-bartels-julia-wittmayer)). Action research occurs as participants use the framework-under-development to identify actions they plan to take within their own organizations to test, deepen or develop this framework, and then use those insights to inform next actions and iterate the framework. Both methodologies are iterative and cyclical, foreground collaboration between researchers and participants (as co-researchers), focus on solving problems and align on ontological and epistemological assumptions.
+
+Our guiding Research Question is "_How can organizations leverage the power of artificial intelligence in a manner that is human-centered? What principles, rules, norms, interventions, processes and strategies are needed to achieve this? How can this be monitored?_". This question is grounded in pragmatism. While our research will develop theory, the aim of this theory is to help solve real-world challenges.
 
 ## Review of relevant literature
 [Literature review (in progress) here](https://github.com/LucidInstitute/Reflexive-AI-Initiative/tree/main/Literature)
 
 ## Visualization of the process
-![Visualization of the process](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Style%20Elements/Roadmap.jpg?raw=true)
+![Visualization of the process](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Visuals/Style%20Elements/Roadmap.jpg?raw=true)
 
 ## Organization & Coordination
 - Coordination Team: see [reflexiveai.org](https://reflexiveai.org).
@@ -24,25 +28,25 @@ We follow an action research approach where academics collaborate with practitio
 ## Work groups to analyze and develop the framework
 To answer the research question, professionals and academics collaborate in a series of **work groups** to incrementally and iteratively develop a framework. Each **work group** will meet three times with an interval of one or more months, consist of 5 to 30 participants and be facilitated by at least one member of the coordination team. Participants are professionals and academics who apply for participation (either on their own volition or because they were invited). Multiple work groups are organized in different countries (and one online series) in a staggered fashion, with outputs shared centrally on GitHub. This allows work groups to "pass the baton", so to speak, and build on and validate work by earlier groups. We opted for this approach to accommodate the time/commitment constraints of many participants, and also to invite a broad range of participants to be included from diverse sectors and countries. Moreover, this design also allows work groups to focus on specific areas of human-centered AI based on available expertise.
 
-During the work group sessions, participants digest and analyze data from a variety of sources (literature, world cafes, surveys, experience) with the purpose of expanding, enriching and improving the framework. In between sessions, participants are encouraged to take the (preliminary) framework into their organizations to gather feedback and try to apply it within their context (at whatever scale is workable). Additional analyses or data collection may also be performed in between sessions. Lessons and insights are brought into the next work group.
+During the work group sessions, participants digest and analyze data from a variety of sources (literature, world cafes, surveys, experience) with the purpose of expanding, enriching and improving the framework. They also plan an action or intervention they can take within their own organization to test, develop or deepen (part of) the framework (at whatever scale is manageable). Additional analyses or data collection may also be performed in between sessions. Participants then implement the actions inbetween the sessions and evaluate their progress as part of the second work group session.
 
 The broad aim for the three sessions (3 hours each):
 - __Session 1__ ([download preliminary facilitation guide](https://raw.githubusercontent.com/LucidInstitute/Reflexive-AI-Initiative/main/Work%20Group%20Guide/Guide%20-%20Session%20%231.pdf))
   - Create connections between participants.
   - Clarify the aim of the initiative and how participants relate to it as co-researchers (Purpose-to-Practice).
   - Provide starting themes relevant to a governance framework for human-centered AI based on a literature review (theory) and a series of expert interviews currently being performed (empirical).
-  - For a selection of themes suitable to the expertise, experience and knowledge in the group, identify outcomes we want to help organizations avoid in these areas through prospective hindsight. These test cases can be used to verify and challenge the framework and any interventions.
-  - Create a first, broad increment of the framework with actions, interventions, strategies and measures to prevent the identified outcomes, or reduce their likelihood. The aim is to have something to take into the participant organizations and collect feedback on it ("What is missing?", "What could be more practical?"). It also helps clarify what other sources of data and literature are useful to explore and collect.
+  - For a selection of themes suitable to the expertise, experience and knowledge in the group, identify outcomes we want to help organizations establish or avoid in these areas through prospective hindsight. These test cases can be used to verify and challenge the framework and any interventions.
+  - Create a first, broad increment of the framework with actions, interventions, strategies and measures to establish or prevent the identified outcomes, and reduce the likelihood of failure.
+  - Participants plan a concrete intervention they want to try within their organization before the next session, for a segment of the framework to test, develop or deepen the framework. By taking action, participants learn what else is needed.
 - __Session 2__ (guide will be designed after Session 1)
-  - Analyze feedback collected since the previous session, as well as input from the World Cafes, and use it to iterate the framework.
+  - Evaluate actions taken since the previous session, as well as input from the World Cafes, and use it to iterate the framework.
   - Reflect on the collaborative process to date and revise our Purpose-to-Practice.
   - Develop interventions, strategies and actions for the themes more deeply, and test those in real organizations.
-  - Identify relevant sources of data and literature for next session.
+  - Participants plan a concrete intervention they want to try within their organization before the next session, for a segment of the framework to test, develop or deepen the framework. By taking action, participants learn what else is needed.
 - __Session 3__ (guide will be designed after Session 2)
-  - Analyze feedback collected since the previous session, as well as input from the World Cafes, and use it to iterate the framework.
+  - Evaluate actions taken since the previous session, as well as input from the World Cafes, and use it to iterate the framework.
   - Evaluate the process and outcomes to date (a “reality check”) and identify open questions, challenges and dilemmas.
   - Participants can then choose to continue with more sessions or to stop; other work groups can pick up the open questions.
-
 
 __Example:__ _One workgroup starts a cycle of three monthly sessions in Amersfoort. Based on the expertise present in this group, they focus on the themes of technology, leadership and change management. Another group in Germany has more experience with HRM and legal issues, and thus focuses on those areas in the framework. A work group in Denmark wants to focus on patterns and anti-patterns, and spends its session on refining the interventions for each theme. The work groups collaboratively and iteratively refine the framework based on the feedback they collect, input from the various World Cafes and other data and literature._
 
@@ -50,8 +54,19 @@ Because facilitation of work groups may require in-the-moment adjustments to fac
 - The facilitators will "whisper out loud" about adjustments they feel must be made. This allows participants to understand the reasoning and contribute ideas.
 - The facilitators will document deviations from the initial guide with a reasoning in their log.
 
+### Anonymization procedure
+- The facilitators of the session anonymizes and scrubs any sensitive information in the World Cafe outcomes before sharing it with the coordination team of the research initiative.
+- The coordination team of the research initiative will verify anonymization was properly performed, and reach out to the facilitator in case of questions.
+- The anonymized outcomes are published on GitHub
+
 ## World cafes to collect insights from companies
-An important source of data are the **world cafes**. These provide an opportunity to draw in more experience and knowledge from a variety of organizational contexts. Each world cafe is facilitated by someone in that organization. To ensure consistency, each facilitator will participate in a training call (online) and receive a [standardized facilitation guide](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/World%20Cafe%20Facilitation%20Guide.pdf) and [informed consent protocol](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf). This facilitator invites 8-20 relevant participants. During the world cafe, participants from the organization collaboratively answer five reflective questions about AI adoption, the opportunities and risks and what can be done to ensure human-centered AI within their organization. The outcomes are anonymized and scrubbed of any business-sensitive information, and shared with the research initiative so they can be included in the analyses by work groups and the publication team.
+An important source of data are the **world cafes**. These provide an opportunity to draw in more experience and knowledge from a variety of organizational contexts. Each world cafe is facilitated by someone in that organization. To ensure consistency, each facilitator will participate in a training call (online) and receive a [standardized facilitation guide](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/World%20Cafe%20Facilitation%20Guide.pdf) and [informed consent protocol](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/World%20Cafe%20Facilitation%20Guide/Informed%20Consent%20Form.pdf). This facilitator invites 8-20 relevant participants. During the world cafe, participants from the organization collaboratively answer five reflective questions about AI adoption, the opportunities and risks and what can be done to ensure human-centered AI within their organization.
+
+### Anonymization procedure
+- The facilitators of the session anonymizes and scrubs any sensitive information in the World Cafe outcomes before sharing it with the coordination team of the research initiative.
+- If the session was run within a company, a company contact is approached to verify that scrubbing was properly performed
+- The coordination team of the research initiative will verify anonymization was properly performed, and reach out to the facilitator in case of questions.
+- The anonymized outcomes are published on GitHub
 
 ## Open source
 The framework itself and any academic publications based on it will be published under a (Creative Commons) open source license, making it available to anyone who wishes to use or adapt it. Scientific publications will be prepared by the publication team, with additional analyses of the data as needed. The publication team consists of the coordination team and any participant or peer-review board member (see below) who wishes to contribute substantively (i.e. participate in coding, writing, analysis) to this phase of the initiative. This process is reviewed periodically by a peer-review board consisting of 8-10 members that evaluate scientific rigour and practical relevance.
