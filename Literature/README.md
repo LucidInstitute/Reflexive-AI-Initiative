@@ -51,11 +51,11 @@ The Copenhagen Manifesto for human-centered AI in software engineering (SE) prov
 One approach that might support human-centered AI is 'Explainable AI' (XAI). Here, a second post-hoc model is created to explain the outcome produced by a black box first model. However, empirical studies of XAI show that such explanations are often inaccurate and incomplete, and may actually increase over-reliance in users ([Rudin, 2019](https://www.nature.com/articles/s42256-019-0048-x), [Liao & Vaughan, 2023](https://doi.org/10.48550/arXiv.2306.01941)). Instead, researchers call for more focus on 'Interpretable AI' ([Rudin, 2019](https://www.nature.com/articles/s42256-019-0048-x)), where AI models are not black boxes but are instread developed for specific domains to  leverage domain-specific constraints to make their outcomes interpretable.
 
 ### A working definition
-There is not currently a clear definition for human-centered AI in literature. One aim of this initiative is to develop this. However, we start with a broad definition derived from the Copenhagen Manifesto ([Russo et al, 2024](https://doi.org/10.1016/j.jss.2024.112115)). AI is human-centered when it:
+There is not currently a clear definition for human-centered AI in organizations present in literature. One aim of this initiative is to develop this. However, we start with a broad definition derived from the Copenhagen Manifesto ([Russo et al, 2024](https://doi.org/10.1016/j.jss.2024.112115)). AI use in organizations is human-centered when it:
 
-- Prevents physical, emotional or financial harm to living beings
+- Prevents the use of AI in a manner that harms other living beings emotionally, physically or financially
 - Prioritizes human needs and autonomy in design and application
-- Makes outcomes transparent, reproducible and verifiable
+- Makes outcomes transparent, interpretable and verifiable
 - Is inclusive (no bias or discrimination) and supports continuous learning
 - Minimizes environmental impact through energy efficiency and sustainable practices
 
