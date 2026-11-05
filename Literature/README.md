@@ -53,7 +53,7 @@ One approach that might support human-centered AI is 'Explainable AI' (XAI). Her
 ### A working definition
 There is not currently a clear definition for human-centered AI in organizations present in literature. One aim of this initiative is to develop this. However, we start with a broad definition derived from the Copenhagen Manifesto ([Russo et al, 2024](https://doi.org/10.1016/j.jss.2024.112115)). AI use in organizations is human-centered when it:
 
-- Prevents the use of AI in a manner that harms other living beings emotionally, physically or financially
+- It is not used in a manner that harms other living beings emotionally, physically or financially
 - Prioritizes human needs and autonomy in design and application
 - Makes outcomes transparent, interpretable and verifiable
 - Is inclusive and supports continuous learning
