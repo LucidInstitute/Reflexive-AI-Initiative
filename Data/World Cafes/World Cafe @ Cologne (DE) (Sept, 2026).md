@@ -3,7 +3,7 @@
 | Field | Details |
 |---|---|
 | Facilitators | Prof Karen Eilers and Bernd Joussen |
-| Date | September 18, 2026 |
+| Date | September, 2026 |
 | Participants | 13 (including 2 facilitators) |
 | Company type | Diverse |
 | Company size | Diverse |
