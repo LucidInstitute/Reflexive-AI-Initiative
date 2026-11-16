@@ -40,6 +40,12 @@ The framework and all resulting academic publications are released under a Creat
 
 - [Facilitation guide & materials for Session #1 (ZIP)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/raw/main/Work%20Group%20Guide/Work%20Group%20Session%201%20Facilitation%20Materials.zip)
 
+## Produced outcomes
+We are publishing the "raw" data - anonymized and stripped of sensitive data - here on GitHub. This allows researchers to use it and organizations to learn from it.
+
+- [Reports from World Cafes already organized](https://github.com/LucidInstitute/Reflexive-AI-Initiative/tree/main/Data/World%20Cafes)
+- [Outcomes from the Work Group sessions already organized](https://github.com/LucidInstitute/Reflexive-AI-Initiative/tree/main/Data/Work%20Groups)
+
 ## Statement on ethical AI use
 
 - AI can be used for information-seeking, textual improvements (i.e. grammar and spelling), summarization and verification, but not to substitute or offload (critical) thinking.
