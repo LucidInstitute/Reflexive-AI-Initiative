@@ -13,4 +13,4 @@ The outcomes of these sessions are anonymized, and then submitted to our researc
 
 - [Session 1 Facilitation Materials](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Work%20Group%20Guide/Work%20Group%20Session%201%20Facilitation%20Materials.zip)
 - [Session 2 Facilitation Materials](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Work%20Group%20Guide/Work%20Group%20Session%202%20Facilitation%20Materials.zip)
-- Session 3 Facilitation Materials (_to be designed_)
+- [Session 3 Facilitation Materials (in peer-review)](https://github.com/LucidInstitute/Reflexive-AI-Initiative/blob/main/Work%20Group%20Guide/Work%20Group%20Session%203%20Facilitation%20Materials.zip))
